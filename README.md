@@ -1,4 +1,4 @@
-# AI Legal/Policy Agent — Interactive Dashboard (Prototype)
+# SIKAP — Interactive Dashboard (Prototype)
 
 This prototype can read legal documents (PDF/Word), perform semantic searches, answer policy questions, classify simple impacts, and generate reports. It's suitable for demos to regional apparatus organizations or leaders.
 
